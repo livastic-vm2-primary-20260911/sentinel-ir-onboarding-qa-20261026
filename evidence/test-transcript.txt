@@ -1,0 +1,21 @@
+test_01_pinned_cli_version (__main__.OnboardingQA.test_01_pinned_cli_version) ... ok
+test_02_help_names_onboarding_commands (__main__.OnboardingQA.test_02_help_names_onboarding_commands) ... ok
+test_03_guide_orders_directory_then_file_and_caveats (__main__.OnboardingQA.test_03_guide_orders_directory_then_file_and_caveats) ... ok
+test_04_cursor_dry_run_does_not_write (__main__.OnboardingQA.test_04_cursor_dry_run_does_not_write) ... ok
+test_05_noninteractive_setup_requires_consent (__main__.OnboardingQA.test_05_noninteractive_setup_requires_consent) ... ok
+test_06_cursor_setup_uses_portable_project_folder (__main__.OnboardingQA.test_06_cursor_setup_uses_portable_project_folder) ... ok
+test_07_existing_servers_and_preferences_preserved (__main__.OnboardingQA.test_07_existing_servers_and_preferences_preserved) ... ok
+test_08_existing_config_backup_matches_original_bytes (__main__.OnboardingQA.test_08_existing_config_backup_matches_original_bytes) ... ok
+test_09_second_setup_is_idempotent (__main__.OnboardingQA.test_09_second_setup_is_idempotent) ... ok
+test_10_invalid_json_remains_unchanged (__main__.OnboardingQA.test_10_invalid_json_remains_unchanged) ... ok
+test_11_windsurf_setup_uses_isolated_home (__main__.OnboardingQA.test_11_windsurf_setup_uses_isolated_home) ... ok
+test_12_vscode_outputs_install_command_without_client_execution (__main__.OnboardingQA.test_12_vscode_outputs_install_command_without_client_execution) ... ok
+test_13_claude_code_outputs_install_command_without_client_execution (__main__.OnboardingQA.test_13_claude_code_outputs_install_command_without_client_execution) ... ok
+test_14_doctor_performs_real_stdio_handshake_tools_and_file_call (__main__.OnboardingQA.test_14_doctor_performs_real_stdio_handshake_tools_and_file_call) ... ok
+test_15_doctor_missing_configuration_is_not_overall_success (__main__.OnboardingQA.test_15_doctor_missing_configuration_is_not_overall_success) ... ok
+test_16_project_path_with_spaces_is_supported (__main__.OnboardingQA.test_16_project_path_with_spaces_is_supported) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 2.675s
+
+OK

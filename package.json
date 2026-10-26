@@ -1,0 +1,16 @@
+{
+  "name": "sentinel-ir-onboarding-qa",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent AI-assisted, synthetic-only onboarding QA sample for sentinel-ir-mcp 0.2.2",
+  "license": "MIT",
+  "scripts": {
+    "test": "python3 tests/run_qa.py"
+  },
+  "dependencies": {
+    "sentinel-ir-mcp": "0.2.2",
+    "sentinel-ir": "0.2.0",
+    "@modelcontextprotocol/sdk": "1.32.1",
+    "zod": "4.1.0"
+  }
+}
